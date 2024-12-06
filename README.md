@@ -157,3 +157,9 @@ Toelichting: Compliance-rapportages kunnen automatisch gegenereerd worden met to
 
 A.PatchTesting: Niet
 Toelichting: Het testen van patches vereist vaak handmatige controle om te verzekeren dat ze geen nieuwe problemen veroorzaken.
+
+A.PaperPassword: Wel
+Toelichting: Het centraal beheren van wachtwoorden op één toegankelijke plek kan geautomatiseerd worden met tools zoals KeePass, LastPass of 1Password. Deze tools stellen beheerders in staat om wachtwoorden veilig op te slaan en te delen, en bieden de mogelijkheid om periodieke audits uit te voeren zonder handmatige tussenkomst. Automatiseren vermindert het risico van menselijke fouten en verbetert de beveiliging.
+
+A.PrintSignal: Niet
+Toelichting: Het controleren of iemand zijn printouts bij de printer laat liggen vereist fysieke aanwezigheid bij de printer of een visuele controle. Dit is moeilijk volledig te automatiseren, aangezien het vaak afhangt van de werkomgeving en de fysieke handelingen van gebruikers. Echter, sommige drukkerijsystemen kunnen wel waarschuwingen geven wanneer een printtaak langer dan een bepaalde tijd ongehaald blijft, maar de daadwerkelijke controle blijft vaak handmatig.
