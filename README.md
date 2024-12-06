@@ -106,3 +106,54 @@ Toelichting: Controle van de integriteit van bestanden kan worden geautomatiseer
 
 A.MobileDeviceManagement: Wel
 Toelichting: Beheer van mobiele apparaten kan worden geautomatiseerd met tools zoals Intune of MobileIron.
+
+A.VirusScan: Wel
+Toelichting: Het scannen van systemen op virussen kan volledig worden geautomatiseerd met antivirussoftware zoals Windows Defender of McAfee.
+
+A.NetworkConfiguration: Niet
+Toelichting: Netwerkinstellingen vereisen vaak specifieke configuraties afhankelijk van de infrastructuur, wat handmatige tussenkomst kan vereisen.
+
+A.DataBackupVerification: Wel
+Toelichting: De verificatie van back-ups kan automatisch worden uitgevoerd met tools zoals Veeam of Commvault.
+
+A.InsiderThreatMonitoring: Wel
+Toelichting: Detectie van insider threats kan worden geautomatiseerd met monitoringsoftware zoals Microsoft Sentinel of Splunk.
+
+A.DiskCleanup: Wel
+Toelichting: Opruimen van schijfruimte kan automatisch worden uitgevoerd met tools zoals CCleaner of via ingebouwde Windows-functionaliteit.
+
+A.UserPasswordReset: Wel
+Toelichting: Het resetten van wachtwoorden kan worden geautomatiseerd met een self-service portaal of via Active Directory.
+
+A.NetworkLoadBalancing: Wel
+Toelichting: Netwerkverkeer kan automatisch worden gebalanceerd met load balancers zoals F5 of HAProxy.
+
+A.FileSharingPermissions: Niet
+Toelichting: Het instellen van gedeelde maprechten vereist vaak handmatige controle en specifieke toegangsinstellingen.
+
+A.CloudResourceProvisioning: Wel
+Toelichting: Het automatisch toewijzen van cloudresources kan eenvoudig worden uitgevoerd met platforms zoals AWS CloudFormation of Azure Resource Manager.
+
+A.CertificationCompliance: Wel
+Toelichting: Compliance checks kunnen worden geautomatiseerd met tools zoals Qualys of Tenable.
+
+A.SecurityPatchTesting: Niet
+Toelichting: Het testen van beveiligingspatches vereist vaak handmatige validatie op verschillende systemen om te zorgen dat er geen conflicten zijn.
+
+A.SystemPerformanceMonitoring: Wel
+Toelichting: Het monitoren van de systeemprestaties kan automatisch worden gedaan met tools zoals Nagios of PRTG.
+
+A.USBAccessControl: Niet
+Toelichting: Het beheren van USB-toegang vereist vaak handmatige instellingen op individuele systemen.
+
+A.RemoteAccessLogging: Wel
+Toelichting: Het loggen van externe toegang kan automatisch worden uitgevoerd met beveiligingssoftware of firewalls.
+
+A.EmailArchiving: Wel
+Toelichting: E-mailarchivering kan worden geautomatiseerd met oplossingen zoals Mimecast of Exchange Archiving.
+
+A.ComplianceReporting: Wel
+Toelichting: Compliance-rapportages kunnen automatisch gegenereerd worden met tools zoals Nessus of Compliance Sheriff.
+
+A.PatchTesting: Niet
+Toelichting: Het testen van patches vereist vaak handmatige controle om te verzekeren dat ze geen nieuwe problemen veroorzaken.
