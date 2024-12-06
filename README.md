@@ -1,5 +1,6 @@
 # Procescodes
 Procescodes voor IT-beheer-taken
+hieronder zal ik uitleggen als de volgende procescodes geautomatiseerd zijn :
 
 A.Backup: Wel
 Toelichting: Back-ups kunnen eenvoudig worden gepland en uitgevoerd met tools zoals Veeam, Acronis of Windows Server Backup.
